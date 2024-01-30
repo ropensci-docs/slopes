@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "91292bdd860f34deb364943067c9755a7bd97050",
+    "author": "RFlx <39107166+temospena@users.noreply.github.com>",
+    "time": "2021-09-28 19:37:18",
+    "files": 10,
+    "merge": true,
+    "message": "Merge pull request #46 from ropensci/joss-paper\n\nJoss paper"
+  },
+  "repo": "https://github.com/ropensci/slopes",
+  "pkg": "slopes"
+}
