@@ -1,0 +1,13 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  benchmark: benchmark.html
+  intro-to-slopes: intro-to-slopes.html
+  roadnetworkcycling: roadnetworkcycling.html
+  slopes: slopes.html
+  verification: verification.html
+last_built: 2026-08-30T07:33Z
+urls:
+  reference: https://docs.ropensci.org/slopes/reference
+  article: https://docs.ropensci.org/slopes/articles

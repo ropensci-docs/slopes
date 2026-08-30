@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a50419a7198c9bfed27049c172e2b14ce0b5c7a9",
+    "author": "RFlx <temospena@gmail.com>",
+    "time": "2026-06-25T18:15:04Z",
+    "files": 1,
+    "merge": false,
+    "message": "Create CRAN-SUBMISSION\n\n#81\n"
+  },
+  "repo": "https://github.com/ropensci/slopes",
+  "pkg": "slopes",
+  "time": "2026-08-30T07:34:36Z"
+}
